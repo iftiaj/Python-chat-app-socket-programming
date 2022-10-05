@@ -1,2 +1,2 @@
 # Python-chat-app-socket-programming
- Python programming language used to and TCP/IP protocol to . 
+ Python programming language used to build chat app based on TCP/IP protocol.
